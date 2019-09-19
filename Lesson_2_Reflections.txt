@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+  it creates a new and empty repository. It helps you start from scratch
+How can you use the staging area to make sure you have one commit per logical change?
+  the staging area is a visual representation of what is unstaged and what is staged. This helps us with our commits
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  Branches help with creating more commits that you're still working on. It helps organize what you want to work on first and so on.
+How do the diagrams help you visualize the branch structure?
+  The diagrams show what new branches are accessible and what each commit's parent is.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  merging two branches enables you to see certain commits under two different Branches
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  A pro of using git's automatic merging is it helps you pick up where you left off. If you do it manually, you see it with your own eyes and see what you're merging into the master version.
